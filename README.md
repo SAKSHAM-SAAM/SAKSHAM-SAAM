@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 </a>
 
 ## Showcase :
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SAKSHAM-SAAM&repo=Graphs-algorithms&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SAKSHAM-SAAM&repo=Graphs-algorithms&theme=radical)](https://github.com/SAKSHAM-SAAM/Graph-Algorithms)
 
 -------------------
 #### Sources Information:
