@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Raptor_Game.
 - 🌱 I’m currently learning Unreal Engine and ML.
-- 👯 I’m looking to collaborate on C++ projects.
+- 👯 I’m looking to collaborate on any project as per my skill-set.
 - 🤔 I’m looking for help with asset optimization.
 - 💬 Ask me about Data structures.
 - 📫 How to reach me: [SAKSHAM](https://www.linkedin.com/in/saksham-sharma-saam/)
+- 
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
@@ -27,7 +28,7 @@ Here are some ideas to get you started:
 ## Tech-Stack :
 
 <p align="left">
-<img src="https://img.icons8.com/color/48/000000/c-programming.png"/> 
+<a href="https://www.cprogramming.com/"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a> 
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
