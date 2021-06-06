@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://www.cprogramming.com/"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a> 
-<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<a href="https://isocpp.org/"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
 <img src="https://img.icons8.com/color/48/000000/arduino.png"/>
