@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/ios-filled/50/26e07f/qt.png"/>
 <img src="https://img.icons8.com/ios/50/4a90e2/unity.png"/>
 <img src="https://img.icons8.com/nolan/64/unreal-engine.png"/>
+<img src="https://img.icons8.com/metro/26/4a90e2/adobe-bridge.png"/>
 <img src="https://img.icons8.com/fluent/64/000000/blender-3d.png"/>
 <img src="https://img.icons8.com/color/48/000000/linux.png"/>
 <img src="https://img.icons8.com/color/48/4a90e2/kali-linux.png"/>
