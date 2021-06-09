@@ -36,18 +36,18 @@ Here are some ideas to get you started:
 <a href="https://www.qt.io/"><img src="https://img.icons8.com/ios-filled/50/26e07f/qt.png"/></a>
 <a href="https://unity.com/"><img src="https://img.icons8.com/ios/50/4a90e2/unity.png"/></a>
 <a href="https://www.unrealengine.com/en-US/"><img src="https://img.icons8.com/nolan/64/unreal-engine.png"/></a>
-<a href="https://isocpp.org/"><img src="https://img.icons8.com/metro/26/4a90e2/adobe-bridge.png"/></a>
+<a href="https://quixel.com/bridge"><img src="https://img.icons8.com/metro/26/4a90e2/adobe-bridge.png"/></a>
 <a href="https://www.blender.org/"><img src="https://img.icons8.com/fluent/64/000000/blender-3d.png"/></a>
-<a href="https://isocpp.org/"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
-<a href="https://isocpp.org/"><img src="https://img.icons8.com/color/48/4a90e2/kali-linux.png"/></a>
-<a href="https://isocpp.org/"><img src="https://img.icons8.com/dusk/64/4a90e2/html-5.png"/></a>
-<a href="https://isocpp.org/"><img src="https://img.icons8.com/color/48/4a90e2/css3.png"/></a>
-<a href="https://isocpp.org/"><img src="https://img.icons8.com/color/48/4a90e2/javascript.png"/></a>
-<a href="https://isocpp.org/"><img src="https://img.icons8.com/color/48/4a90e2/npm.png"/></a>
-<a href="https://isocpp.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-<a href="https://isocpp.org/"><img src="https://img.icons8.com/color/48/4a90e2/mongodb.png"/></a>
-<a href="https://isocpp.org/"><img src="https://img.icons8.com/dusk/64/000000/anaconda.png"/></a>
-<a href="https://isocpp.org/"><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/></a>
+<a href="https://www.linux.org/"><img src="https://img.icons8.com/color/48/000000/linux.png"/></a>
+<a href="https://www.kali.org/"><img src="https://img.icons8.com/color/48/4a90e2/kali-linux.png"/></a>
+<a href="https://www.w3schools.com/html/"><img src="https://img.icons8.com/dusk/64/4a90e2/html-5.png"/></a>
+<a href="https://www.w3schools.com/css/default.asp"><img src="https://img.icons8.com/color/48/4a90e2/css3.png"/></a>
+<a href="https://www.w3schools.com/js/default.asp"><img src="https://img.icons8.com/color/48/4a90e2/javascript.png"/></a>
+<a href="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/4a90e2/npm.png"/></a>
+<a href="https://nodejs.org/en/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+<a href="https://www.mongodb.com/"><img src="https://img.icons8.com/color/48/4a90e2/mongodb.png"/></a>
+<a href="https://www.anaconda.com/"><img src="https://img.icons8.com/dusk/64/000000/anaconda.png"/></a>
+<a href="https://www.tensorflow.org/"><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/></a>
 </p>
 
 ## Statistics :
