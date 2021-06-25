@@ -1,5 +1,5 @@
  <h1 align="center">SAKSHAM SHARMA</h1> 
-<h3 align="center"> Welcome To My Github ID.</h3>
+<h3 align="center"> Welcome To My Github ID. </h3>
 <p>I am an Software Engineer/Game Designer/Digital Artist .</p>
 <p>Here is a <em>digital art piece</em> made by me for a change. </p>
 <p>Currently,I am pursuing my B.Tech (Electronics and Computer Engineering) at <em>Thapar Institue of Engineering and Technology</em>.</p>
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Raptor_Game.
 - 🌱 I’m currently learning Unreal Engine and ML.
 - 👯 I’m looking to collaborate on any project as per my skill-set.
-- 🤔 I’m looking for help with asset optimization.
+- 🤔 I’m looking for help [DATA EXPLUNGED].
 - 💬 Ask me about Data structures.
 - 📫 How to reach me: [SAKSHAM](https://www.linkedin.com/in/saksham-sharma-saam/)
 - ✨ Fun Fact: Horror movies are comedies in disguise. 
