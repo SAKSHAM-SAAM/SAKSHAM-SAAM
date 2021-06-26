@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 ## Tech-Stack :
 
-<p align="left">
+<p align="left"> 
 <a href="https://www.cprogramming.com/"><img src="https://img.icons8.com/color/48/000000/c-programming.png"/></a> 
 <a href="https://isocpp.org/"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
 <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a>
