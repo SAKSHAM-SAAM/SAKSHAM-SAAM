@@ -12,7 +12,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Raptor_Game.
+- 🔭 I’m currently working on Explorator.
 - 🌱 I’m currently learning Unreal Engine and ML.
 - 👯 I’m looking to collaborate on any project as per my skill-set.
 - 🤔 I’m looking for help [DATA EXPLUNGED].
@@ -71,5 +71,8 @@ Here are some ideas to get you started:
 
 --------------------------
 #### Sources Information:
-<a href="https://icons8.com/"> Icons by Icons8 </a>
-<a href="">template by anurag hazra</a>
+<ul>
+<li> <a href="https://icons8.com/"> Icons by Icons8 </a> </li>
+
+<li> <a href="https://github.com/anuraghazra">Template by anurag hazra</a> </li>
+</ul>
