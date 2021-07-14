@@ -74,5 +74,5 @@ Here are some ideas to get you started:
 <ul>
 <li> <a href="https://icons8.com/"> Icons by Icons8 </a> </li>
 
-<li> <a href="https://github.com/anuraghazra">Template by anurag hazra</a> </li>
+<li> <a href="https://github.com/anuraghazra">Template by Anurag Hazra</a></li>
 </ul>
