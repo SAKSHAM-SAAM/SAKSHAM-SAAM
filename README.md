@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help [DATA EXPLUNGED].
 - 💬 Ask me about Data structures.
 - 📫 How to reach me: [SAKSHAM](https://www.linkedin.com/in/saksham-sharma-saam/)
-- ✨ Fun Fact: Horror movies are comedies in disguise. 
+- ✨ Fun Fact: Horror movies are comedies in disguise. 🦖
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
