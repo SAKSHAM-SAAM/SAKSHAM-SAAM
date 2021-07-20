@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 --------------------------
 #### Sources Information:
 <ul>
-<li> <a href="https://icons8.com/"> Icons by Icons8 </a> </li>
+<li> 👍<a href="https://icons8.com/"> Icons by Icons8 </a> </li>
 
-<li> <a href="https://github.com/anuraghazra">Template by Anurag Hazra</a></li>
+<li> 🗃️<a href="https://github.com/anuraghazra">Template by Anurag Hazra</a></li>
 </ul>
