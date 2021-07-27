@@ -1,7 +1,7 @@
 <h1 align="center">SAKSHAM SHARMA</h1> 
 <h3 align="center">Welcome To My Github ID.</h3>
 <p>I am an Software Engineer/Game Designer/Digital Artist .</p>
-<p>Here is a <em> digital art piece</em> made by me for a change. </p>
+<p>Here is a <em> digital art piece</em> made by me for a change. </p> 
 <p> Currently, I am pursuing my B.Tech (Electronics and Computer Engineering) at <em>Thapar Institue of Engineering and Technology</em>.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SAKSHAM-SAAM&label=Profile%20views&color=0e75b6&style=flat" alt="saksham" /> </p>
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <a href="https://www.tensorflow.org/"><img src="https://img.icons8.com/color/48/000000/tensorflow.png"/></a>
 </p>
 
-
+  
 ## Statistics :
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SAKSHAM-SAAM&show_icons=true&theme=radical" />
